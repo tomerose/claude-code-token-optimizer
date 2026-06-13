@@ -52,11 +52,11 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="images/wechat-qr.png" width="200" alt="微信支付"><br>
+        <img src="images/wechat-qr.jpg" width="200" alt="微信支付"><br>
         <sub>微信扫码打赏</sub>
       </td>
       <td align="center">
-        <img src="images/alipay-qr.png" width="200" alt="支付宝"><br>
+        <img src="images/alipay-qr.jpg" width="200" alt="支付宝"><br>
         <sub>支付宝扫码打赏</sub>
       </td>
     </tr>

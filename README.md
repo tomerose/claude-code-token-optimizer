@@ -314,18 +314,18 @@ Found a better compression tool? A smarter skill classification? Open an issue o
     </tr>
     <tr>
       <td align="center">
-        <img src="images/wechat-qr.png" width="200" alt="WeChat Pay"><br>
+        <img src="images/wechat-qr.jpg" width="200" alt="WeChat Pay"><br>
         <sub>WeChat Pay</sub>
       </td>
       <td align="center">
-        <img src="images/alipay-qr.png" width="200" alt="Alipay"><br>
+        <img src="images/alipay-qr.jpg" width="200" alt="Alipay"><br>
         <sub>Alipay</sub>
       </td>
     </tr>
   </table>
 </p>
 
-> **NOTE:** Replace `images/wechat-qr.png` and `images/alipay-qr.png` with your actual payment QR code images. The placeholder files in this repo are for reference only.
+> **NOTE:** Replace `images/wechat-qr.jpg` and `images/alipay-qr.jpg` with your actual payment QR code images. The placeholder files in this repo are for reference only.
 
 ---
 
