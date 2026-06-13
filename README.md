@@ -234,6 +234,8 @@ In a 30-turn session: **~282,000 tokens saved**. At Anthropic Sonnet pricing ($3
 
 ## Quick Start (5 Minutes)
 
+**⚡ Even faster: use [Token Doctor](https://github.com/tomerose/token-doctor) — auto-diagnose + auto-fix in one command.**
+
 ```bash
 # 1. Classify your skills (copy the skillOverrides block above)
 #    → Paste into ~/.claude/settings.json
